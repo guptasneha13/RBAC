@@ -43,7 +43,9 @@ This project is a **React-JS-based User Management System** designed for managin
 Use the following command to clone the repository:  
 git clone https://github.com/guptasneha13/RBAC
 
-git init
+npm install
+
+npm run start
 
 ---
 
